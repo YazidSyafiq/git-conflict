@@ -1,3 +1,3 @@
 # Fitur Aplikasi
 
-Ini adalah fitur aplikasi paling oke sekali
+Ini adalah fitur B paling gokil dan the best
