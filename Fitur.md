@@ -1,4 +1,3 @@
 # Fitur Aplikasi
 
-Ini adalah fitur A paling mantap sekali
-Ini adalah fitur B paling gokil dan the best
+Ini adalah fitur A dan B paling mantap dan the best
